@@ -10,6 +10,9 @@
 					<a class="nav-link" href="listado-peliculas.php">Listado de películas</a>
 				</li>
 				<li class="nav-item">
+					<a class="nav-link" href="listado-actores.php">Listado de actores</a>
+				</li>
+				<li class="nav-item">
 					<a class="nav-link" href="crear-pelicula.php">Crear película</a>
 				</li>
 				<li class="nav-item">
