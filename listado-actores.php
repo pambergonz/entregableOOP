@@ -2,8 +2,6 @@
 	require_once 'autoload.php';
 
 	$actors = DB::getAllActors();
-	$movies = DB::getAllMovies();
-
 
 	$pageTitle = 'Listado de actores';
 	require_once 'partials/head.php';
